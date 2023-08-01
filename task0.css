@@ -1,0 +1,10 @@
+.li{
+  height:200px;
+  width:500px;
+  background-color:pink;
+    outline-color:red;
+    outline-width:20px;
+    outline-style:dotted;
+
+
+}
