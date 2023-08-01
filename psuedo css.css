@@ -1,0 +1,35 @@
+a:hover{
+	
+	font-size:100px;
+}
+/*to change the properties of tag*/
+/*psuedo classes are 1:hover-to change properties when when ever mouse curser is moved
+2:visited -to indicate visited 
+3:active -to change properties when ever it is clicked
+4:link-it is used to the changed properties on un clicked*/
+a:link{
+color:red;
+}
+a:active{
+	color:green;
+	font-size:200px;
+
+}
+#i:visited{
+	color:grey;
+
+
+}
+div.slide-left {
+  overflow:hidden;
+  backgorund-color:pink;
+  height:200px;
+  width:100px;
+}
+#r:hover{
+	color:red;
+}
+img:hover{
+	height:500px;
+	width:1000px;
+}

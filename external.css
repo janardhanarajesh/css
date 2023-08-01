@@ -1,0 +1,40 @@
+.ext{
+	background-color:red;
+	color:yellow;
+	border:4px solid black;
+/*	class selcetor*/
+}
+#ab{
+	color:red;
+	background-color: green;
+/*	id selector*/
+}
+p{
+color:red;
+background-color:yellow;
+}
+div{             
+	background-color:red;
+	height:100px;
+	width:100px;
+/*	tag selector*/
+}
+*{
+	color:green;
+	font-family:algerian;
+}
+/*universal selector*/
+input[type]{
+	color:brown;
+/*	attribute selector*/
+}
+a[href]{
+	color:blue;
+	background-color:grey;
+}
+label{
+	color:gold;
+}
+img{
+	border:1px solid black;
+}
